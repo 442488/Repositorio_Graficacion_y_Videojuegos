@@ -1,0 +1,29 @@
+import random
+
+def generate_random_array(length):
+    return [random.randint(1, 1000) for _ in range(length)]
+
+def create_intervals(arr, interval_size):
+    intervals = [arr[i:i+interval_size] for i in range(0, len(arr), interval_size)]
+    return intervals
+
+def main():
+    num_elements = 100
+    interval_size = 10
+    num_intervals = num_elements // interval_size
+
+    random_array = generate_random_array(num_elements)
+    print("Números aleatorios:", random_array)
+
+    intervals = create_intervals(random_array, interval_size)
+    
+    interval_sums = [(interval, sum(interval)) for interval in intervals]
+    interval_sums.sort(key=lambda x: x[1], reverse=True)
+    
+    print("\nIntervalos ordenados de mayor a menor suma:")
+    for i in range(5):
+        interval, interval_sum = interval_sums[i]
+        print(f"Intervalo {i+1}: {interval} - Suma: {interval_sum}")
+
+if __name__ == "__main__":
+    main()
