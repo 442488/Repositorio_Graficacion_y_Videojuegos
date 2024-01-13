@@ -1,0 +1,12 @@
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\bin\Debug\Parallax.exe.config
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\bin\Debug\Parallax.exe
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\bin\Debug\Parallax.pdb
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.csproj.AssemblyReference.cache
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.Form1.resources
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.MyResourses.resources
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.Properties.Resources.resources
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.Resource1.resources
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.csproj.GenerateResource.cache
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.csproj.CoreCompileInputs.cache
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.exe
+C:\Users\1108361294\OneDrive\Documentos\Repositorio Videojuegos\Parallax\obj\Debug\Parallax.pdb
